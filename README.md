@@ -231,6 +231,7 @@ dotnet publish -c Release -r win-x64 --self-contained true `
 
 ## License
 
-[MIT](LICENSE)
+[GNU LGPL v3.0](LICENSE)
 
-基于 [Kimsec/EarShare](https://github.com/Kimsec/EarShare) 项目，在 MIT 许可证下修改和分发。
+本项目基于 [Kimsec/EarShare](https://github.com/Kimsec/EarShare)（MIT 许可证）修改，
+本项目的修改和新增代码使用 GNU LGPL v3.0 许可证。
