@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="220" src="UI/Assets/earshare.svg" alt="Virtual sound field Logo">
+</p>
 <h1 align="center">Virtual sound field</h1>
 
 <p align="center">
