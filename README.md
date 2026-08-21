@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>适用于 <a href="#小米智能音箱pro-环绕声设置指南">小米智能音箱Pro</a> 等多音箱环绕声场景</em><br>
+  <em>适用于 <a href="#小米智能音箱pro-环绕声设置指南">小米智能音箱Pro</a> 多音箱连接电脑组建环绕声场景</em><br>
   <em>基于 <a href="https://github.com/Kimsec/EarShare">Kimsec/EarShare</a> 编写</em>
 </p>
 
