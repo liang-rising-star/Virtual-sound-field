@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <em>基于 <a href="https://github.com/Kimsec/EarShare">Kimsec/EarShare</a> 的升级版本</em>
+  <em>适用于 <a href="https://www.mi.com/product/xiaomi-smart-speaker-pro">小米智能音箱Pro</a> 等多音箱环绕声场景</em><br>
+  <em>基于 <a href="https://github.com/Kimsec/EarShare">Kimsec/EarShare</a> 编写</em>
 </p>
 
 ## 相比原版的改进
