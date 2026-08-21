@@ -63,3 +63,6 @@ VolumeTest.csproj
 
 ## Logs
 volume_log.txt
+
+## Temporary files
+mimo -s ses_*.txt

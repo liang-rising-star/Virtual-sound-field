@@ -24,7 +24,7 @@ public sealed class AppSettings
 
     private static string FilePath => Path.Combine(
         Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
-        "EarShare", "settings.json");
+        "VirtualSoundField", "settings.json");
 
     public static AppSettings Load()
     {
