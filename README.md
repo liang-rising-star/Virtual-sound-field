@@ -4,9 +4,8 @@
 <h1 align="center">Virtual sound field</h1>
 
 <p align="center">
-  <strong>多音箱环绕声解决方案</strong><br>
-  <strong>Virtual sound field</strong> 将电脑音频同时输出到多个音箱，支持小米音箱Pro等蓝牙/USB/HDMI/DP音箱，
-  组建4音箱环绕声系统，打造沉浸式360°声场体验。
+  <strong>将音频同时播放到多个音箱</strong><br>
+  <strong>Virtual sound field</strong> 将电脑正在播放的内容镜像到任意数量的音频设备。
 </p>
 
 <p align="center">
